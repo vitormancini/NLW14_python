@@ -1,4 +1,1 @@
-Labraries:
-    * pre-commit
-
-pylint --generate-rcfile > .pylintrc
+Config pylint: pylint --generate-rcfile > .pylintrc
