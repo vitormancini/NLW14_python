@@ -1,5 +1,5 @@
 from flask import Flask
-from src.main.routes.tag_routes import tags_routes_bp
+from src.routes.tag_routes import tags_routes_bp
 
 app = Flask(__name__)
 
